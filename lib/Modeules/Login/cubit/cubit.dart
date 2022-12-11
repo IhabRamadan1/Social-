@@ -1,4 +1,4 @@
-import 'package:chat_app/Dio/dio.dart';
+import 'package:chat_app/shared/Network/local/dio.dart';
 import 'package:chat_app/Models/LoginModel.dart';
 import 'package:chat_app/Modeules/Login/cubit/state.dart';
 import 'package:dio/dio.dart';

@@ -1,12 +1,12 @@
-import 'package:chat_app/Dio/dio.dart';
+import 'package:chat_app/shared/Network/local/dio.dart';
 import 'package:chat_app/Modeules/Login/LoginScreen.dart';
 import 'package:chat_app/Modeules/Login/cubit/cubit.dart';
-import 'package:chat_app/Network/Remote/CacheHelper.dart';
-import 'package:chat_app/constants.dart';
+import 'package:chat_app/shared/Network/Remote/CacheHelper.dart';
+import 'package:chat_app/shared/constants.dart';
 import 'package:chat_app/layouts/cubit/soCubit.dart';
 import 'package:chat_app/layouts/cubit/soStates.dart';
 import 'package:chat_app/layouts/social_layout.dart';
-import 'package:chat_app/styles/themes.dart';
+import 'package:chat_app/shared/styles/themes.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

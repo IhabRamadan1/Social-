@@ -2,7 +2,7 @@
 import 'package:chat_app/Modeules/addPost/addPost.dart';
 import 'package:chat_app/layouts/cubit/soCubit.dart';
 import 'package:chat_app/layouts/cubit/soStates.dart';
-import 'package:chat_app/styles/icon_broken.dart';
+import 'package:chat_app/shared/styles/icon_broken.dart';
 import 'package:conditional_builder/conditional_builder.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

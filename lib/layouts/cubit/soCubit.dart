@@ -11,7 +11,7 @@ import 'package:chat_app/Modeules/chats/chats.dart';
 import 'package:chat_app/Modeules/feeds/feeds.dart';
 import 'package:chat_app/Modeules/settings/settings.dart';
 import 'package:chat_app/Modeules/users/users.dart';
-import 'package:chat_app/constants.dart';
+import 'package:chat_app/shared/constants.dart';
 import 'package:chat_app/layouts/cubit/soStates.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';

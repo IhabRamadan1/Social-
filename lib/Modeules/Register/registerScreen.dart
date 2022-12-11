@@ -1,7 +1,7 @@
 import 'package:chat_app/Modeules/Login/LoginScreen.dart';
 import 'package:chat_app/Modeules/Register/cubit/RegisterCubit.dart';
 import 'package:chat_app/Modeules/Register/cubit/RegisterState.dart';
-import 'package:chat_app/Network/Remote/CacheHelper.dart';
+import 'package:chat_app/shared/Network/Remote/CacheHelper.dart';
 import 'package:chat_app/layouts/social_layout.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
